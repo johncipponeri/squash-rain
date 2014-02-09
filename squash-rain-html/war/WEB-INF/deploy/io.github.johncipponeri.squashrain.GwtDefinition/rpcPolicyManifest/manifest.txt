@@ -1,0 +1,2 @@
+# Module io.github.johncipponeri.squashrain.GwtDefinition
+# RPC service class, partial path of RPC policy file
